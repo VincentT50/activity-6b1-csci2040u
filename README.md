@@ -1,5 +1,5 @@
 # Activity 6B1
 
-**Vincent Tseng (100912590)**
+**By Vincent Tseng (100912590)**
 
-**Software Design and Analysis (CSCI 2040U)**
+**Made For Software Design and Analysis (CSCI 2040U)**
